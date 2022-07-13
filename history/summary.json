@@ -22,7 +22,7 @@
     "url": "https://www.wherewasigoing.com/",
     "icon": "https://www.wherewasigoing.com/blog/assets/img/icons/favicon.ico",
     "slug": "where-was-i-going-with-that",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 152,
     "timeMonth": 172,
     "timeYear": 172,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-13": 0
+    }
   },
   {
     "name": "Crunchy Arcane Riddles",
