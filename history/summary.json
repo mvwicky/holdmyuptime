@@ -4,18 +4,20 @@
     "url": "https://holdmypics.com/",
     "icon": "https://holdmypics.com/favicon.ico",
     "slug": "hold-my-pics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 248,
-    "timeDay": 313,
-    "timeWeek": 305,
-    "timeMonth": 248,
-    "timeYear": 248,
-    "dailyMinutesDown": {}
+    "time": 243,
+    "timeDay": 209,
+    "timeWeek": 280,
+    "timeMonth": 243,
+    "timeYear": 243,
+    "dailyMinutesDown": {
+      "2022-07-27": 0
+    }
   },
   {
     "name": "Where Was I Going With That?",
@@ -40,17 +42,19 @@
     "url": "https://crunchy-arcane-riddles.com/",
     "icon": "https://crunchy-arcane-riddles.com/favicon.ico",
     "slug": "crunchy-arcane-riddles",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 392,
-    "timeWeek": 299,
-    "timeMonth": 238,
-    "timeYear": 238,
-    "dailyMinutesDown": {}
+    "time": 234,
+    "timeDay": 264,
+    "timeWeek": 279,
+    "timeMonth": 234,
+    "timeYear": 234,
+    "dailyMinutesDown": {
+      "2022-07-27": 0
+    }
   }
 ]
