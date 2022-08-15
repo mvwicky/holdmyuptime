@@ -4,18 +4,19 @@
     "url": "https://holdmypics.com/",
     "icon": "https://holdmypics.com/favicon.ico",
     "slug": "hold-my-pics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 228,
-    "timeDay": 133,
-    "timeWeek": 218,
-    "timeMonth": 226,
-    "timeYear": 228,
+    "time": 479,
+    "timeDay": 6091,
+    "timeWeek": 1697,
+    "timeMonth": 574,
+    "timeYear": 479,
     "dailyMinutesDown": {
+      "2022-08-15": 2,
       "2022-07-27": 16
     }
   },
@@ -42,7 +43,7 @@
     "url": "https://crunchy-arcane-riddles.com/",
     "icon": "https://crunchy-arcane-riddles.com/favicon.ico",
     "slug": "crunchy-arcane-riddles",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -54,6 +55,7 @@
     "timeMonth": 224,
     "timeYear": 224,
     "dailyMinutesDown": {
+      "2022-08-15": 0,
       "2022-07-27": 16
     }
   }
