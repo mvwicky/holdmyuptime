@@ -28,9 +28,9 @@
     "url": "https://www.wherewasigoing.com/",
     "icon": "https://www.wherewasigoing.com/blog/assets/img/icons/favicon.ico",
     "slug": "where-was-i-going-with-that",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -40,6 +40,7 @@
     "timeMonth": 218,
     "timeYear": 429,
     "dailyMinutesDown": {
+      "2023-02-28": 0,
       "2022-09-05": 16
     }
   },
