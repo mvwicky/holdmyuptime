@@ -29,19 +29,19 @@
     "url": "https://www.wherewasigoing.com/",
     "icon": "https://www.wherewasigoing.com/blog/assets/img/icons/favicon.ico",
     "slug": "where-was-i-going-with-that",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 284,
+    "time": 282,
     "timeDay": 203,
     "timeWeek": 325,
     "timeMonth": 243,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2024-03-16": 6
+      "2024-03-16": 0
     }
   },
   {
