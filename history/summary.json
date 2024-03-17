@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 224,
-    "timeDay": 134,
-    "timeWeek": 213,
-    "timeMonth": 206,
+    "timeDay": 137,
+    "timeWeek": 187,
+    "timeMonth": 199,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2023-12-31": 35,
@@ -31,18 +31,16 @@
     "slug": "where-was-i-going-with-that",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 282,
-    "timeDay": 176,
-    "timeWeek": 302,
-    "timeMonth": 238,
+    "timeDay": 194,
+    "timeWeek": 310,
+    "timeMonth": 237,
     "timeYear": 218,
-    "dailyMinutesDown": {
-      "2024-03-16": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Crunchy Arcane Riddles",
@@ -56,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 210,
-    "timeDay": 128,
-    "timeWeek": 209,
-    "timeMonth": 197,
+    "timeDay": 82,
+    "timeWeek": 176,
+    "timeMonth": 190,
     "timeYear": 205,
     "dailyMinutesDown": {
       "2023-12-31": 35,
