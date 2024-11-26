@@ -5,18 +5,19 @@
     "icon": "https://holdmypics.com/favicon.ico",
     "slug": "hold-my-pics",
     "status": "down",
-    "uptime": "95.39%",
+    "uptime": "95.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "89.01%",
-    "time": 224,
-    "timeDay": 157,
-    "timeWeek": 214,
-    "timeMonth": 223,
-    "timeYear": 225,
+    "uptimeYear": "88.73%",
+    "time": 225,
+    "timeDay": 354,
+    "timeWeek": 238,
+    "timeMonth": 228,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2024-11-25": 22,
+      "2024-11-26": 21,
+      "2024-11-25": 1440,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
@@ -62,8 +63,7 @@
       "2024-09-26": 15,
       "2024-08-21": 16,
       "2023-12-31": 35,
-      "2023-12-16": 33,
-      "2023-11-27": 22
+      "2023-12-16": 33
     }
   },
   {
@@ -78,9 +78,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 104,
-    "timeWeek": 176,
-    "timeMonth": 208,
+    "timeDay": 117,
+    "timeWeek": 172,
+    "timeMonth": 206,
     "timeYear": 195,
     "dailyMinutesDown": {}
   },
@@ -90,18 +90,19 @@
     "icon": "https://crunchy-arcane-riddles.com/favicon.ico",
     "slug": "crunchy-arcane-riddles",
     "status": "down",
-    "uptime": "95.40%",
+    "uptime": "95.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "89.01%",
+    "uptimeYear": "88.73%",
     "time": 210,
-    "timeDay": 332,
-    "timeWeek": 277,
-    "timeMonth": 237,
-    "timeYear": 211,
+    "timeDay": 354,
+    "timeWeek": 301,
+    "timeMonth": 243,
+    "timeYear": 212,
     "dailyMinutesDown": {
-      "2024-11-25": 22,
+      "2024-11-26": 21,
+      "2024-11-25": 1440,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
@@ -147,8 +148,7 @@
       "2024-09-26": 15,
       "2024-08-21": 16,
       "2023-12-31": 35,
-      "2023-12-16": 33,
-      "2023-11-27": 22
+      "2023-12-16": 33
     }
   }
 ]
