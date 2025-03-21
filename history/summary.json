@@ -5,7 +5,7 @@
     "icon": "https://holdmypics.com/favicon.ico",
     "slug": "hold-my-pics",
     "status": "up",
-    "uptime": "94.92%",
+    "uptime": "94.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
@@ -78,9 +78,9 @@
     "url": "https://www.wherewasigoing.com/",
     "icon": "https://www.wherewasigoing.com/blog/assets/img/icons/favicon.ico",
     "slug": "where-was-i-going-with-that",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 202,
     "timeMonth": 203,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-21": 0
+    }
   },
   {
     "name": "Crunchy Arcane Riddles",
