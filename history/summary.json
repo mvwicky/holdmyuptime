@@ -81,7 +81,7 @@
     "slug": "where-was-i-going-with-that",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,8 +89,10 @@
     "timeDay": 266,
     "timeWeek": 294,
     "timeMonth": 230,
-    "timeYear": 207,
-    "dailyMinutesDown": {}
+    "timeYear": 206,
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   },
   {
     "name": "Crunchy Arcane Riddles",
@@ -98,7 +100,7 @@
     "icon": "https://crunchy-arcane-riddles.com/favicon.ico",
     "slug": "crunchy-arcane-riddles",
     "status": "up",
-    "uptime": "95.15%",
+    "uptime": "95.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
