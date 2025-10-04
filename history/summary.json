@@ -81,17 +81,17 @@
     "slug": "where-was-i-going-with-that",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 237,
+    "time": 218,
+    "timeDay": 241,
     "timeWeek": 244,
-    "timeMonth": 262,
+    "timeMonth": 261,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2025-10-04": 0
+      "2025-10-04": 9
     }
   },
   {
