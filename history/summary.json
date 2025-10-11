@@ -12,7 +12,7 @@
     "uptimeYear": "86.27%",
     "time": 273,
     "timeDay": 114,
-    "timeWeek": 1828,
+    "timeWeek": 265,
     "timeMonth": 766,
     "timeYear": 297,
     "dailyMinutesDown": {
@@ -79,18 +79,20 @@
     "url": "https://www.wherewasigoing.com/",
     "icon": "https://www.wherewasigoing.com/blog/assets/img/icons/favicon.ico",
     "slug": "where-was-i-going-with-that",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
     "timeDay": 218,
-    "timeWeek": 227,
+    "timeWeek": 224,
     "timeMonth": 255,
     "timeYear": 219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-11": 0
+    }
   },
   {
     "name": "Crunchy Arcane Riddles",
@@ -105,7 +107,7 @@
     "uptimeYear": "86.27%",
     "time": 335,
     "timeDay": 172,
-    "timeWeek": 699,
+    "timeWeek": 278,
     "timeMonth": 460,
     "timeYear": 391,
     "dailyMinutesDown": {
