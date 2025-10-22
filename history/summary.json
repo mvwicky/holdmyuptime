@@ -6,14 +6,14 @@
     "slug": "hold-my-pics",
     "status": "up",
     "uptime": "95.81%",
-    "uptimeDay": "89.36%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.48%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "87.62%",
+    "uptimeYear": "87.90%",
     "time": 307,
-    "timeDay": 10499,
-    "timeWeek": 2800,
-    "timeMonth": 1341,
+    "timeDay": 112,
+    "timeWeek": 2778,
+    "timeMonth": 1340,
     "timeYear": 343,
     "dailyMinutesDown": {
       "2025-10-20": 153,
@@ -64,8 +64,7 @@
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
-      "2024-10-23": 1440,
-      "2024-10-22": 1440
+      "2024-10-23": 1440
     }
   },
   {
@@ -75,14 +74,14 @@
     "slug": "where-was-i-going-with-that",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.61%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 225,
-    "timeDay": 385,
-    "timeWeek": 288,
-    "timeMonth": 283,
+    "timeDay": 237,
+    "timeWeek": 275,
+    "timeMonth": 279,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2025-10-20": 20
@@ -95,15 +94,15 @@
     "slug": "crunchy-arcane-riddles",
     "status": "up",
     "uptime": "95.81%",
-    "uptimeDay": "88.02%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.29%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "87.62%",
+    "uptimeYear": "87.89%",
     "time": 373,
-    "timeDay": 11536,
-    "timeWeek": 3057,
+    "timeDay": 183,
+    "timeWeek": 3043,
     "timeMonth": 1097,
-    "timeYear": 445,
+    "timeYear": 446,
     "dailyMinutesDown": {
       "2025-10-20": 173,
       "2025-09-15": 33,
@@ -153,8 +152,7 @@
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
-      "2024-10-23": 1440,
-      "2024-10-22": 1440
+      "2024-10-23": 1440
     }
   }
 ]
