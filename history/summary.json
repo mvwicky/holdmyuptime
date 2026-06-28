@@ -40,9 +40,9 @@
     "url": "https://www.wherewasigoing.com/",
     "icon": "https://www.wherewasigoing.com/blog/assets/img/icons/favicon.ico",
     "slug": "where-was-i-going-with-that",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
@@ -57,7 +57,8 @@
       "2026-05-10": 98,
       "2026-05-19": 39,
       "2026-06-02": 18,
-      "2026-06-07": 20
+      "2026-06-07": 20,
+      "2026-06-28": 0
     }
   },
   {
