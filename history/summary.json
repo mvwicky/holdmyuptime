@@ -4,16 +4,16 @@
     "url": "https://holdmypics.com/",
     "icon": "https://holdmypics.com/favicon.ico",
     "slug": "hold-my-pics",
-    "status": "down",
-    "uptime": "96.83%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 496,
-    "timeDay": 2097,
-    "timeWeek": 688,
-    "timeMonth": 382,
+    "status": "up",
+    "uptime": "96.81%",
+    "uptimeDay": "74.46%",
+    "uptimeWeek": "96.35%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.83%",
+    "time": 495,
+    "timeDay": 1433,
+    "timeWeek": 623,
+    "timeMonth": 377,
     "timeYear": 399,
     "dailyMinutesDown": {
       "2025-12-16": 16,
@@ -25,7 +25,8 @@
       "2026-05-05": 24,
       "2026-06-15": 129,
       "2026-07-18": 38,
-      "2026-11-27": 1
+      "2026-11-28": 195,
+      "2026-11-27": 173
     }
   },
   {
@@ -42,7 +43,7 @@
     "time": 354,
     "timeDay": 223,
     "timeWeek": 392,
-    "timeMonth": 604,
+    "timeMonth": 601,
     "timeYear": 383,
     "dailyMinutesDown": {
       "2026-01-06": 16,
@@ -58,17 +59,17 @@
     "url": "https://crunchy-arcane-riddles.com/",
     "icon": "https://crunchy-arcane-riddles.com/favicon.ico",
     "slug": "crunchy-arcane-riddles",
-    "status": "down",
-    "uptime": "96.82%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
-    "time": 462,
-    "timeDay": 2096,
-    "timeWeek": 678,
-    "timeMonth": 367,
-    "timeYear": 379,
+    "status": "up",
+    "uptime": "96.81%",
+    "uptimeDay": "74.49%",
+    "uptimeWeek": "96.36%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.82%",
+    "time": 461,
+    "timeDay": 1416,
+    "timeWeek": 609,
+    "timeMonth": 358,
+    "timeYear": 378,
     "dailyMinutesDown": {
       "2025-12-16": 16,
       "2026-01-01": 17,
@@ -81,7 +82,8 @@
       "2026-05-05": 24,
       "2026-06-15": 129,
       "2026-07-18": 37,
-      "2026-11-27": 0
+      "2026-11-28": 195,
+      "2026-11-27": 173
     }
   }
 ]
